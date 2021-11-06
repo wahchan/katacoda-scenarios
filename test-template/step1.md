@@ -111,7 +111,7 @@ apt-get install -yy cowsay && \
 
 Here's a single line of runnable code:
 
-`printf 'Hello, world!\n\n'`{{execute}}
+`docker-compose up\n\n'`{{execute}}
 
 
 
