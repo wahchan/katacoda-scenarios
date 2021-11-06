@@ -111,7 +111,7 @@ apt-get install -yy cowsay && \
 
 Here's a single line of runnable code:
 
-`docker-compose up`{{execute}}
+`docker - compose up`{{execute}}
 
 Here's a single line of runnable code:
 
