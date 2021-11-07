@@ -1,8 +1,7 @@
-# Introduction
 
 Clone the following github repository.
 
-
+`git clone https://github.com/polyu18046521d/wordpress-shop`{{execute}}
 ## Lesson Content
 
 View the docker compose file at wordpress-shop/docker-compose.yml in the editor
@@ -101,11 +100,10 @@ apt-get install -yy cowsay && \
 
 Here's a single line of runnable code:
 
-`git-clone https://github.com/polyu18046521d/wordpress-shop`{{execute}}
 
-Here's a single line of runnable code:
 
-`cd wordpress-shop`{{execute}}
+Start up the servers by using docker-compose:
+Execute:  `cd wordpress-shop`{{execute}}
 
 
 
