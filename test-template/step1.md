@@ -1,3 +1,7 @@
+# Introduction of PII
+It refers to any representation of information that permits the identity of an individual to whom the information applies to be reasonably inferred by either direct or indirect means. It is important to aware of those data and prevent leak out.
+
+# Start
 
 Clone the following github repository.
 
@@ -5,9 +9,6 @@ Clone the following github repository.
 
 
 View the docker compose file at docker-lamp/docker-compose.yml in the editor.
-
-
-# NOTES BELOW THIS POINT
 
 
 Start up the servers by using docker-compose:

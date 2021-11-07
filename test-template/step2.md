@@ -7,27 +7,18 @@ You need to enter the password:
 `somewordpress`{{execute}}
 
 # After enter the database
-
-
 You can view the databases by:
  `show databases;`{{execute}}
 
- `select * from wordpress.wp_usermeta  where meta_key="nickname" \G;`{{execute}}
-`select * from wordpress.wp_comments \G;`{{execute}}
 
-Render port 8500: :https://11234567-8000-wahchan.environments.katacoda.com/
+# You may also visit the woocommerce website
 
+View the Home page at  localhost:8080
+Render port 8080: :https://2886795279-8080-wahchan.environments.katacoda.com/
 
-View the PHP application at at localhost:8001
-
-https://2886795279-8000-simba11.environments.katacoda.com
-
-You may access the phpmyadmin tool at localhost:8008 with the following username/password:
-
-MYSQL_USER: user
-MYSQL_PASSWORD: test
-https://2886795279-8001-simba11.environments.katacoda.com
-
+username: testuser
+password: testpassword
+email: testuser@test.com
 
 
 
