@@ -15,7 +15,7 @@ You can view the databases by:
 
 Render port 8080: https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/
 
-
+https://[[HOST_SUBDOMAIN]]-[[KATACODA_HOST]].environments.katacoda.com/
 
 
 View the Home page at  localhost:8080
