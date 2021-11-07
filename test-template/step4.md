@@ -8,6 +8,8 @@ After you login , select my acocunt
 And edit the first name and last name of the user
 And press the save changes button
 Follow the below example
+
+![account_example](./assets/account_example.png)
 # Check for the user name
 You can view the information related to user name by:
  `select * from wordpress.wp_usermeta where meta_key like "%name%"; `{{execute}}
@@ -25,6 +27,8 @@ We can check user's email from this command as well
 You can view the information related to user password by:
  `select user_login, user_pass from wordpress. wp_users; `{{execute}}
  You will find out the information about the login name and password of a user
+
+
 
 
  `select * from wordpress.wp_usermeta  where meta_key="nickname" \G;`{{execute}}

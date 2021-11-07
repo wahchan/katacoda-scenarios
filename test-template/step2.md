@@ -4,7 +4,7 @@ Execute the following command to  access the databse using mysql client as a roo
 
 
 You need to enter the password:
-`somewordpress`{{execute}}
+`somewordpress`{{copy}}
 
 # After enter the database
 You can view the databases by:
