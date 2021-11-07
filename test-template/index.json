@@ -24,8 +24,8 @@
         "uilayout": "editor-terminal",
         "dashboards": [
             {"name": "URL", "href": "https://www.katacoda.com"},
-            {"name": "Port 80", "port": 80},
-            {"name": "Placeholder", "href": "https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/somepage", "port": 8080}]
+            {"name": "Port 8080", "port": 8080},
+            {"name": "Placeholder", "href": "https://2886795279-8080-wahchan.environments.katacoda.com/", "port": 8080}]
     },
     "backend": {
         "imageid": "ubuntu:2004"

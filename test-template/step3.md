@@ -16,7 +16,7 @@ You can view the databases by:
 View the Home page at  localhost:8080
 Render port 8080: :https://2886795279-8080-wahchan.environments.katacoda.com/
 
-username: testuser
+username: testuser 
 password: testpassword
 email: testuser@test.com
 
