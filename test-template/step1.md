@@ -1,21 +1,11 @@
 # Introduction
 
-This lesson is paired with a live, sandboxed development environment. Interactive lessons are a great way to show code in action and to help the learner try out and practice newly learned skills — all in an isolated environment, so learners can explore, experiment, and tinker without fear of breaking anything.
-
-Organize your lesson around a specific task that the learner will learn to complete.
-
-Lessons should: 
-
-- Address only one specific task or problem
-- Take no more than 5–15 minutes to complete
-- Establish situational and emotional relevance by answering the questions "Why should I care about this?" and "What can I achieve with this new skill?"
-
+Clone the following github repository.
 
 
 ## Lesson Content
 
-We recommend following the content structure described below.
-
+View the docker compose file at wordpress-shop/docker-compose.yml in the editor
 ### Description
 
 Open with a brief description: 2-3 sentences on what the lesson covers, illustrates, and teaches. What technology is used, and what task will the learner have accomplished by the end?
@@ -111,11 +101,11 @@ apt-get install -yy cowsay && \
 
 Here's a single line of runnable code:
 
-`docker - compose up`{{execute}}
+`git-clone https://github.com/polyu18046521d/wordpress-shop`{{execute}}
 
 Here's a single line of runnable code:
 
-`docker-compose exec db  mysql -u root -p`{{execute}}
+`cd wordpress-shop`{{execute}}
 
 
 
