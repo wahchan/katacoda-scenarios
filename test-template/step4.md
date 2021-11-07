@@ -1,26 +1,30 @@
 # Address as PII
-The billing address and shipping address of each customer is a type of PII . This is a sensitive information that related to customer privacy.
+The information of each customer is a type of PII . This is a sensitive information that related to customer privacy.
 
 
 
 # In thewoocommerce website
 After you login , select my acocunt
-And edit the billing address , shipping address
+And edit the first name and last name of the user
+And press the save changes button
 Follow the below example
-# Check for the shipping address
-You can view the information related to shipping address by:
- `select * from wordpress.wp_usermeta where meta_key like "%shipping%;"`{{execute}}
- You will find out the information of first_name ,last_name,city,state,country
- which will combine to form an address.
+# Check for the user name
+You can view the information related to user name by:
+ `select * from wordpress.wp_usermeta where meta_key like "%name%"; `{{execute}}
+ You will find out the information about nickname, first_name  and last_name of the user.
+ The first_name and last_name will be set as the first name and last name of billing address as well.
+
+# Check for the user email
+
+`select * from wordpress.wp_user;`{{execute}}
+We can check user's email from this command as well
 
 
-# Check for the billing address
- You can view the information related to billing address by:
- `select * from wordpress.wp_usermeta where meta_key like "%billing%;"`{{execute}}
- You will find out the information of first_name ,last_name,address,city,state,country
- which will combine to form an address.
-Also , it will shown user's email and phone as well.
 
+# Check for the user password
+You can view the information related to user password by:
+ `select user_login, user_pass from wordpress. wp_users; `{{execute}}
+ You will find out the information about the login name and password of a user
 
 
  `select * from wordpress.wp_usermeta  where meta_key="nickname" \G;`{{execute}}
