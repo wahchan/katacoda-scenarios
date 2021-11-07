@@ -1,9 +1,9 @@
-# Address as PII
+# User Information as PII
 The information of each customer is a type of PII . This is a sensitive information that related to customer privacy.
 
 
 
-# In thewoocommerce website
+# In the woocommerce website
 After you login , select my acocunt
 And edit the first name and last name of the user
 And press the save changes button
@@ -28,11 +28,6 @@ You can view the information related to user password by:
  `select user_login, user_pass from wordpress. wp_users; `{{execute}}
  You will find out the information about the login name and password of a user
 
-
-
-
- `select * from wordpress.wp_usermeta  where meta_key="nickname" \G;`{{execute}}
-`select * from wordpress.wp_comments \G;`{{execute}}
 
 
 

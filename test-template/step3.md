@@ -28,8 +28,6 @@ Also , it will shown user's email and phone as well.
 ![billing_query](./assets/billing_query.png)
 
 
- `select * from wordpress.wp_usermeta  where meta_key="nickname" \G;`{{execute}}
-`select * from wordpress.wp_comments \G;`{{execute}}
 
 
 
