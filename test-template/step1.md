@@ -14,7 +14,7 @@ Start up the servers by using docker-compose:
 First need to set the current directory as wordpress-shop:
  `cd wordpress-shop`{{execute}}
 
-Then execute `docker-compose up -d` {{execute}}
+Then execute `docker-compose up -d`{{execute}}
 
 
 
