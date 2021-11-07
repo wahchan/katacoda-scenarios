@@ -1,19 +1,27 @@
 {
-    "title": "Test Template",
-    "description": "This is a test...",
+    "title": "PII in the wordpress and woocommerce",
+    "description": "This is a tutorial to let people learn more about PII",
     "difficulty": "Beginner",
     "time": "5 minutes",
     "details": {
         "steps": [
             {
-                "title": "Step 1",
+                "title": "Introduction",
+                "text": "step1.md"
+            },
+            {
+                "title": "Step 2",
+                "text": "step1.md"
+            },
+            {
+                "title": "Step 3",
                 "text": "step1.md"
             }
         ]
     },
     "environment": {
         "hideintro": true,
-        "uilayout": "terminal"
+        "uilayout": "editor-terminal"
     },
     "backend": {
         "imageid": "ubuntu:2004"
