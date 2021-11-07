@@ -16,7 +16,7 @@ You can view the information related to user name by:
 
 # Check for the user email
 
-`select * from wordpress.wp_user;`{{execute}}
+`select * from wordpress.wp_users;`{{execute}}
 We can check user's email from this command as well
 
 
