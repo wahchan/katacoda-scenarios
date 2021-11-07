@@ -13,13 +13,8 @@ You can view the databases by:
 
 # You may also visit the woocommerce website
 
-Render port 8080: https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/
+View the Home page at port 8080 https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/
 
-https://[[HOST_SUBDOMAIN]]-[[KATACODA_HOST]].environments.katacoda.com/
-
-
-View the Home page at  localhost:8080
-Render port 8080: :https://2886795279-8080-wahchan.environments.katacoda.com/
 
 username: testuser
 <br>
