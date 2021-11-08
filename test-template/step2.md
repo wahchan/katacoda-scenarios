@@ -4,7 +4,7 @@ Execute the following command to  access the databse using mysql client as a roo
 
 
 You need to enter the password:
-`somewordpress`{{copy}}
+`mypassword`{{copy}}
 
 # After enter the database
 You can view the databases by:
@@ -17,6 +17,7 @@ View the Home page at port 8080
 <br>
 https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/
 
+http://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/wp-login.php
 
 username: testuser
 <br>
