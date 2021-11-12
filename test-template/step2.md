@@ -35,7 +35,7 @@ You need to type the following to start the store
 <br>
 
 After that , need to create a new user to browse the store
-![create_user](./assets/creatw_user.png)
+![create_user](./assets/create_user.png)
 
 <br>
 
