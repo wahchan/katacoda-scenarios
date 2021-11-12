@@ -13,7 +13,9 @@ Follow the below example
 # Check for the shipping address
 You can view the information related to shipping address by:
  `select * from wordpress.wp_usermeta where meta_key like "%shipping%";`{{execute}}
+ <br>
  You will find out the information of first_name ,last_name,city,state,country
+ <br>
  which will combine to form an address.
 
 ![shipping_query](./assets/shipping_query.png)
@@ -21,7 +23,9 @@ You can view the information related to shipping address by:
 # Check for the billing address
  You can view the information related to billing address by:
  `select * from wordpress.wp_usermeta where meta_key like "%billing%";`{{execute}}
+ <br>
  You will find out the information of first_name ,last_name,address,city,state,country
+ <br>
  which will combine to form an address.
 Also , it will shown user's email and phone as well.
 
