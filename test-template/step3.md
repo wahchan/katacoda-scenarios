@@ -9,6 +9,7 @@ And edit the billing address , shipping address
 Follow the below example
 
 ![account](./assets/account.png)
+
 ![address_example](./assets/address_example.png)
 # Check for the shipping address
 You can view the information related to shipping address by:
@@ -18,7 +19,9 @@ You can view the information related to shipping address by:
  <br>
  which will combine to form an address.
 
+
 ![shipping_query](./assets/shipping_query.png)
+
 
 # Check for the billing address
  You can view the information related to billing address by:
@@ -28,6 +31,8 @@ You can view the information related to shipping address by:
  <br>
  which will combine to form an address.
 Also , it will shown user's email and phone as well.
+
+
 
 ![billing_query](./assets/billing_query.png)
 
