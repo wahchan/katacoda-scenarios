@@ -39,7 +39,18 @@ You can login the webpage by
 Username:`testuser`{{copy}}
 Password:`testpassword`{{copy}}
 ![Login](./assets/Login.png)
+
+# After log in
+
+Create the woocommerce site by install plugin
+![plugin](./assets/plugin.png)
 <br>
+You need to type the following to start the store
+
+![start](./assets/start.png)
+
+<br>
+
 Select fashion,apparel and accessories as industry
 ![Industry](./assets/Industry.png)
 <br>
@@ -53,20 +64,7 @@ Select the default theme
 ![theme](./assets/theme.png)
 
 
-
-
-
-
-# After log in
-Create the woocommerce site by install plugin
-![plugin](./assets/plugin.png)
 <br>
-You need to type the following to start the store
-
-![start](./assets/start.png)
-
-<br>
-
 After that , need to create a new user to browse the store
 ![create_user](./assets/create_user.png)
 
