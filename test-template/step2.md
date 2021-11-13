@@ -44,7 +44,7 @@ Select fashion,apparel and accessories as industry
 ![Industry](./assets/Industry.png)
 <br>
 Select physical products as product to sell
-![TypeofProduct](./assets/TypeofProduct.png)
+![Typeofproduct](./assets/Typeofproduct.png)
 <br>
 11-100 as number of product
 ![Number](./assets/Number.png)
