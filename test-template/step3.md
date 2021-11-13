@@ -7,8 +7,8 @@ The billing address and shipping address of each customer is a type of PII . Thi
 After you login , select my acocunt
 And edit the billing address , shipping address
 Follow the below example
-
 ![account](./assets/account.png)
+
 ![address](./assets/address.png)
 
 
@@ -22,9 +22,9 @@ Set the shipping address as following
 Set the billing address as following
 ![billing_address1](./assets/billing_address1.png)
 ![billing_address2](./assets/billing_address2.png)
-
-
 ![address_example](./assets/address_example.png)
+
+
 
 
 

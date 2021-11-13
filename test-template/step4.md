@@ -8,8 +8,8 @@ After you login , select my acocunt
 And edit the first name and last name of the user
 And press the save changes button
 Follow the below example
-
 ![account_example](./assets/account_example.png)
+
 # Check for the user name
 You can view the information related to user name by:
  `select * from wordpress.wp_usermeta where meta_key like "%name%"; `{{execute}}
