@@ -6,6 +6,7 @@ We can export the personal information from wordpress of a specific user.
 After you login , enter the setting panel 
 And choose export personal data
 And download the personal data of the specific usr
+![Export_temp](./assets/Export_temp.png)
 
 ![download_example](./assets/download_example.png)
 

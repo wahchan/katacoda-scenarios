@@ -9,8 +9,28 @@ And edit the billing address , shipping address
 Follow the below example
 
 ![account](./assets/account.png)
+![address](./assets/address.png)
+
+
+# Set shipping address
+Set the shipping address as following
+![shipping_address1](./assets/shipping_address1.png)
+![shipping_address2](./assets/shipping_address2.png)
+
+
+# Set billing address
+Set the billing address as following
+![billing_address1](./assets/billing_address1.png)
+![billing_address2](./assets/billing_address2.png)
+
+
 
 ![address_example](./assets/address_example.png)
+
+
+
+
+
 # Check for the shipping address
 You can view the information related to shipping address by:
  `select * from wordpress.wp_usermeta where meta_key like "%shipping%";`{{execute}}

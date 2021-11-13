@@ -15,11 +15,13 @@ You can view the information related to user name by:
  `select * from wordpress.wp_usermeta where meta_key like "%name%"; `{{execute}}
  You will find out the information about nickname, first_name  and last_name of the user.
  The first_name and last_name will be set as the first name and last name of billing address as well.
+![nickname](./assets/nickname.png)
 
 # Check for the user email
 
 `select * from wordpress.wp_users;`{{execute}}
 We can check user's email from this command as well
+![wpuser](./assets/wpuser.png)
 
 
 
@@ -27,6 +29,7 @@ We can check user's email from this command as well
 You can view the information related to user password by:
  `select user_login, user_pass from wordpress. wp_users; `{{execute}}
  You will find out the information about the login name and password of a user
+![password](./assets/password.png)
 
 
 

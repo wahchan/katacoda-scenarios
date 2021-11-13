@@ -15,14 +15,47 @@ You can view the databases by:
 
 View the Home page at port 8080 
 <br>
-
 http://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/wp-login.php
+<br>
 
+# Setup
+First, need to setup the webapge
+<br>
+Choose English as language
+![English](./assets/English.png)
+
+<br>
+Then ,create the webapge with following information
+![Detail](./assets/Detail.png)
 username: testuser
 <br>
 password: testpassword
 <br>
 email: testuser@test.com
+<br>
+
+# Login
+You can login the webpage by 
+Username:`testuser`{{copy}}
+Password:`testpassword`{{copy}}
+![Login](./assets/Login.png)
+<br>
+Select fashion,apparel and accessories as industry
+![Industry](./assets/Industry.png)
+<br>
+Select physical products as product to sell
+![TypeofProduct](./assets/TypeofProduct.png)
+<br>
+11-100 as number of product
+![Number](./assets/Number.png)
+<br>
+Select the default theme
+![theme](./assets/theme.png)
+
+
+
+
+
 
 # After log in
 Create the woocommerce site by install plugin
@@ -36,6 +69,10 @@ You need to type the following to start the store
 
 After that , need to create a new user to browse the store
 ![create_user](./assets/create_user.png)
+
+<br>
+Here is the list of user
+![User_all](./assets/User_all.png)
 
 <br>
 
