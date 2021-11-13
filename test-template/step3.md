@@ -24,7 +24,6 @@ Set the billing address as following
 ![billing_address2](./assets/billing_address2.png)
 
 
-
 ![address_example](./assets/address_example.png)
 
 
