@@ -4,11 +4,12 @@ The billing address and shipping address of each customer is a type of PII . Thi
 
 
 # In the woocommerce website
-After you login , select my acocunt
-And edit the billing address , shipping address
+After you login , select my acocunt to edit the name
 Follow the below example
 ![account](./assets/account.png)
 
+![account_example](./assets/account_example.png)
+And edit the billing address , shipping address
 ![address](./assets/address.png)
 
 
